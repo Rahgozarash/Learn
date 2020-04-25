@@ -1,1 +1,2 @@
 This is a my changed file.
+This is second changed directly from github
